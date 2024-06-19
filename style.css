@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+  font-family: 'Montserrat' , sans-serif;
+}
+body{
+  background-color: rgba(32, 92, 66, 0.19);
+  background-color: #9db19e;
+}
+section,footer{
+  padding: 54px 0;
+}
+h3{
+  font-size: 50px;
+}
+p{
+  color: rgb(255, 255, 255);
+}
+.container{
+  max-width: 1400px;
+  margin: 0 auto;
+  padding:0 5%;
+}
+.btn{
+  background-color: rgb(78, 142, 99);
+  color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  display: inline-block;
+  transition: 0.1s;
+}
+.btn.animacao-btn{
+  animation: animacao-outline 1s ease-out infinite;
+}
+.btn:hover{
+  background-color: rgba(50, 106, 69, 0.98);
+}
+@keyframes animacao-outline {
+  from{
+outline: 0px solid #4e8e63;
+  }
+  to{
+outline: 13px solid rgba(78, 142, 99, 0.16);
+  }
+}
+header{
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content:space-between ;
+  padding-top: 30px;
+
+}
+nav ul{
+  display: flex;
+  align-items: center;
+}
+nav ul a{
+  color: #ffffff;
+  margin:0 25px;
+  text-transform: uppercase;
+  font-size: 14px;
+  display: block;
+}
+nav ul a:not(.btn)::after{
+  content: "";
+  background-color: #ffffff;
+  height: 3px;
+  width:0%;
+  display: block;
+  margin: 0 auto;
+  transition:0.3s;
+}
+nav ul a:hover::after{
+  width: 100%;
+}
+.banner{
+  display: flex;
+  justify-content: center;
+}
+.banner .banner-text{
+  margin: 150px;
+  text-align: center;
+  padding: 0 50px;
+}
+.banner .banner-text h1{
+  font-size: 85px;
+  color: #ffffff;
+}
+.banner .banner-text p{
+  font-size: 17px;
+  color: white;
+  font-weight: lighter;
+  margin:15px 0 ;
+}
+/*faca mais*/
+.faca-mais .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9db19e;
+
+}
+.faca-mais .faca-mais-text{
+  width:50%;
+  padding: 0 30px;
+  background-color: #5c9f71;
+  border-radius: 20px;
+}
+.faca-mais .faca-mais-text h3{
+  font-size: 45px;
+}
+.faca-mais .faca-mais-text p{
+  margin: 5px 0px 10px 0;
+  color: black;
+}
+.faca-mais .faca-mais-img{
+  width: 50%;
+
+}
+.faca-mais .faca-mais-img img{
+  width: 100%;
+  border-radius: 20px;
+}
