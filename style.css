@@ -131,3 +131,7 @@ nav ul a:hover::after{
   width: 100%;
   border-radius: 20px;
 }
+.links{
+  display: flex;
+  align-items: center;
+}
