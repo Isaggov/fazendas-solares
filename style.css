@@ -35,7 +35,7 @@ p{
   transition: 0.1s;
 }
 .btn.animacao-btn{
-  animation: animacao-outline 1s ease-out infinite;
+  animation:"animacao-outline" 1s ease-out infinite;
 }
 .btn:hover{
   background-color: rgba(50, 106, 69, 0.98);
