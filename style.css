@@ -113,7 +113,7 @@ nav ul a:hover::after{
 .faca-mais .faca-mais-text{
   width:50%;
   padding: 0 30px;
-  background-color: #5c9f71;
+  background-color: #699677;
   border-radius: 20px;
 }
 .faca-mais .faca-mais-text h3{
@@ -131,7 +131,8 @@ nav ul a:hover::after{
   width: 100%;
   border-radius: 20px;
 }
-.links{
-  display: flex;
-  align-items: center;
+/* footer*/
+.footer{
+  background-color: #415848;
+  text-align: center;
 }
