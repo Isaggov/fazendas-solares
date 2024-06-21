@@ -83,6 +83,13 @@ nav ul a:not(.btn)::after{
 nav ul a:hover::after{
   width: 100%;
 }
+/* menu */
+nav .menu-icon{
+  cursor:pointer;
+  font-size: 25px;
+  color: #ffffff;
+  display: none;
+}
 .banner{
   display: flex;
   justify-content: center;
@@ -147,6 +154,9 @@ nav ul a:hover::after{
 .footer p{
  margin-top: 10px;
  color:#ffffff;
- 
-
+}
+@media(max-witrh: 830px){
+  nav{
+    background-color: brown;
+  }
 }
