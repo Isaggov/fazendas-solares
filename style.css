@@ -156,7 +156,8 @@ nav .menu-icon{
  color:#ffffff;
 }
 @media(max-width:830px){
-  nav{
-    background-color: rgb(160, 16, 16);
+  nav .menu-icon{
+    display: block;
+    
   }
 }
