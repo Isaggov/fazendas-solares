@@ -145,6 +145,8 @@ nav ul a:hover::after{
   border-radius: 10px;
 }
 .footer p{
-  display: flex;
-  
+ margin-top: 10px;
+ color:#ffffff;
+ 
+
 }
