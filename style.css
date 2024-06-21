@@ -156,6 +156,13 @@ nav .menu-icon{
  color:#ffffff;
 }
 @media(max-width:830px){
+  .ul{
+    position: fixed;
+    top:0 ;
+    left: 0;
+    background: red ;
+
+  }
   nav .menu-icon{
     display: block;
     
