@@ -175,7 +175,7 @@ nav .close-icon{
     transition: 0,7s;
   }
   .ul.open{
-    clip-path: circle(141.2% at 100% 0);
+    clip-path: circle(141.4% at 100% 0);
   }
   .ul a{
     margin: 10px 0;
