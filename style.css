@@ -121,7 +121,7 @@ nav .close-icon{
   align-items: center;
   justify-content: center;
   background-color: #9db19e;
-
+  gap: 32px;
 }
 .faca-mais .faca-mais-text{
   width:50%;
