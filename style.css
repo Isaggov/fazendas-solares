@@ -90,6 +90,11 @@ nav .menu-icon{
   color: #ffffff;
   display: none;
 }
+nav .close-icon{
+  display: none;
+  font-size: 30px;
+  color: #ffffff;
+}
 .banner{
   display: flex;
   justify-content: center;
@@ -174,5 +179,11 @@ nav .menu-icon{
   nav .menu-icon{
     display: block;
     
+  }
+  nav .close-icon{
+    display: block;
+    position:absolute ;
+    top: 45px;
+    right: 28 x;
   }
 }
