@@ -24,6 +24,7 @@ p{
   max-width: 1400px;
   margin: 0 auto;
   padding:0 5%;
+  gap: 32px;
 }
 .btn{
   background-color: rgb(78, 142, 99);
