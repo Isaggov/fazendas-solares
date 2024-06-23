@@ -232,4 +232,13 @@ nav .close-icon{
 .faca-mais .faca-mais-img {
     width:100%;
   }
+  .sobre .container{
+    flex-wrap: wrap-reverse;
+  }
+  .sobre .sobre-texto{
+    width: 100%;
+  }
+  .sobre .sobre-img{
+    width: 100%;
+  }
 }
