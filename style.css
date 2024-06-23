@@ -161,6 +161,28 @@ nav .close-icon{
  margin-top: 10px;
  color:#ffffff;
 }
+/* pagina sobre*/
+.sobre .sobre-texto{
+  width:70%;
+  padding: 0 30px;
+  background-color: #699677;
+  border-radius: 20px;
+}
+.sobre .sobre-texto h3{
+  font-size: 45px;
+}
+.sobre .sobre-texto p{
+  margin: 5px 0px 10px 0;
+  color: black;
+}
+.sobre .sobre-img{
+  width: 30%;
+}
+.sobre .sobre-img img{
+  width: 100%;
+  border-radius: 20px;
+  
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
