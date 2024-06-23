@@ -124,7 +124,7 @@ nav .close-icon{
   gap: 32px;
 }
 .faca-mais .faca-mais-text{
-  width:50%;
+  width:70%;
   padding: 0 30px;
   background-color: #699677;
   border-radius: 20px;
@@ -137,7 +137,7 @@ nav .close-icon{
   color: black;
 }
 .faca-mais .faca-mais-img{
-  width: 50%;
+  width: 30%;
 
 }
 .faca-mais .faca-mais-img img{
@@ -194,5 +194,12 @@ nav .close-icon{
   }
   .faca-mais .container {
     flex-wrap: wrap-reverse;
+  }
+  .faca-mais .faca-mais-text {
+    width: 100%;
+}
+
+.faca-mais .faca-mais-img {
+    width:100%;
   }
 }
