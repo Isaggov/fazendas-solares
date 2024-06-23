@@ -167,7 +167,7 @@ nav .close-icon{
   align-items:center;
   justify-content: center;
   background-color: #9db19e;
- flex-direction: inherit;
+ flex-direction: column;
   gap: 32px;
 }
 .sobre .sobre-texto{
