@@ -162,6 +162,13 @@ nav .close-icon{
  color:#ffffff;
 }
 /* pagina sobre*/
+.sobre .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #9db19e;
+  gap: 32px;
+}
 .sobre .sobre-texto{
   width:70%;
   padding: 0 30px;
