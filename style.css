@@ -36,15 +36,8 @@ p{
   transition: 0.1s;
 }
 
-.btn:hover{
-  background-color: rgba(50, 106, 69, 0.98);
-}
 
-  
-  
-outline: 13px solid rgba(78, 142, 99, 0.16);
-  }
-}
+
 header{
   background-position: center;
   background-size: cover;
