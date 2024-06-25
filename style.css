@@ -137,7 +137,7 @@ nav .close-icon{
   color: black;
 }
 .faca-mais .faca-mais-img{
-  width: 28%;
+  width: 38%;
 
 }
 .faca-mais .faca-mais-img img{
@@ -171,20 +171,19 @@ nav .close-icon{
   gap: 32px;
 }
 .sobre .sobre-texto{
-  width:70%;
+  width:67%;
   padding: 0 30px;
-  background-color: #699677;
   border-radius: 20px;
 }
 .sobre .sobre-texto h3{
   font-size: 45px;
 }
 .sobre .sobre-texto p{
-  margin: 5px 0px 10px 0;
+  margin: 8px 0px 8px 0;
   color: black;
 }
 .sobre .sobre-img{
-  width: 85%;
+  width: 38%;
 }
 .sobre .sobre-img img{
   width: 100%;
