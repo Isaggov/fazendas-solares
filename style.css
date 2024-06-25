@@ -12,7 +12,7 @@ body{
   background-color: #9db19e;
 }
 section,footer{
-  padding: 0px 0;
+  padding: 50px 0;
 }
 h3{
   font-size: 50px;
@@ -35,17 +35,13 @@ p{
   display: inline-block;
   transition: 0.1s;
 }
-.btn.animacao-btn{
-  animation:"animacao-outline" 1s ease-out infinite;
-}
+
 .btn:hover{
   background-color: rgba(50, 106, 69, 0.98);
 }
-@keyframes animacao-outline {
-  from{
-outline: 0px solid #4e8e63;
-  }
-  to{
+
+  
+  
 outline: 13px solid rgba(78, 142, 99, 0.16);
   }
 }
