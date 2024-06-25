@@ -20,7 +20,7 @@ h3{
 p{
   color: rgb(255, 255, 255);
 }
-.container{
+.contudo{
   max-width: 1440px;
   margin: 0 auto;
   padding:0 5%;
@@ -103,7 +103,7 @@ nav .close-icon{
   margin:15px 0 ;
 }
 /*faca mais*/
-.faca-mais .container{
+.fazendas .contudo{
   display: flex;
   align-items:center;
   justify-content: center;
@@ -111,25 +111,25 @@ nav .close-icon{
  flex-direction: column;
   gap: 32px;
 }
-.faca-mais .faca-mais-text{
+.fazendas .fazendas-text{
   width:67%;
   padding: 0 30px;
   border-radius: 20px;
 }
-.faca-mais .faca-mais-text h3{
+.fazendas .fazendas-text h3{
   font-size: 41px;
   align-items: center;
   color: black;
 }
-.faca-mais .faca-mais-text p{
+.fazendas .fazendas-img p{
   margin: 9px 0px 8px 0;
   color: black;
 }
-.faca-mais .faca-mais-img{
+.fazendas .fazendas-img{
   width: 38%;
 
 }
-.faca-mais .faca-mais-img img{
+.fazendas .fazendas-img img{
   width: 100%;
   border-radius: 20px;
 }
@@ -151,7 +151,7 @@ nav .close-icon{
  color:#ffffff;
 }
 /* pagina sobre*/
-.sobre .container{
+.sobre .contudo{
   display: flex;
   align-items:center;
   justify-content: center;
@@ -210,14 +210,14 @@ nav .close-icon{
     top: 72px;
     right: 52px;
   }
-  .faca-mais .container {
+  .fazendas .contudo {
     flex-wrap: wrap-reverse;
   }
-  .faca-mais .faca-mais-text {
+  .fazendas .fazendas-text {
     width: 100%;
 }
 
-.faca-mais .faca-mais-img {
+.fazendas .fazendas-img {
     width:100%;
   }
   .sobre .container{
