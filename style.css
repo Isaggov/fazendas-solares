@@ -119,25 +119,25 @@ nav .close-icon{
 .faca-mais .container{
   display: flex;
   align-items: center;
-  justify-content: center;
   background-color: #9db19e;
   gap: 32px;
 }
 .faca-mais .faca-mais-text{
-  width:70%;
+  width:67%;
   padding: 0 30px;
-  
   border-radius: 20px;
 }
 .faca-mais .faca-mais-text h3{
-  font-size: 45px;
+  font-size: 41px;
+  align-items: center;
+  color: black;
 }
 .faca-mais .faca-mais-text p{
   margin: 5px 0px 10px 0;
   color: black;
 }
 .faca-mais .faca-mais-img{
-  width: 30%;
+  width: 28%;
 
 }
 .faca-mais .faca-mais-img img{
