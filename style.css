@@ -114,8 +114,7 @@ nav .close-icon{
 .fazendas .fazendas-text{
   width:67%;
   padding: 0 30px;
-  border-radius: 20px;
-}
+  }
 .fazendas .fazendas-text h3{
   font-size: 41px;
   align-items: center;
@@ -124,6 +123,7 @@ nav .close-icon{
 .fazendas .fazendas-text p{
   margin: 9px 0px 8px 0;
   color: black;
+  align-items: center;
 }
 .fazendas .fazendas-img{
   width: 38%;
