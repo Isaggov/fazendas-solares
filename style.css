@@ -180,6 +180,36 @@ nav .close-icon{
   
 }
 /* pagina curiosidades* */
+
+.curiosidades .contudo{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  background-color: #9db19e;
+ flex-direction: column;
+  gap: 32px;
+}
+.curiosidades .curi-texto{
+  width:67%;
+  padding: 0 30px;
+  border-radius: 20px;
+}
+.curiosidades.curi-texto h3{
+  font-size: 45px;
+}
+.curiosidades .curi-texto p{
+  margin: 9px 0px 8px 0;
+  color: black;
+}
+.curiosidades .curi-img{
+  width: 38%;
+}
+.curiosidades .curi-img img{
+  width: 100%;
+  border-radius: 20px;
+  
+
+
 .curiosidades .contudo{
   display: flex;
   align-items:center;
