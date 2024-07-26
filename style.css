@@ -218,6 +218,7 @@ nav .close-icon{
     border-radius: 20px;
     align-items: center;
   }
+  
 @media(max-width:768px){
   .ul{
     position: fixed;
