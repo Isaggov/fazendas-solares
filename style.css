@@ -134,11 +134,11 @@ nav .close-icon{
   border-radius: 20px;
 }
 /* footer*/
-.footer{
+.final{
   background-color: #415848;
   text-align: center;
 }
-.footer i{
+.final i{
   color: #415848;
   font-size: 19px;
   background-color: white;
@@ -146,7 +146,7 @@ nav .close-icon{
   margin: 3px;
   border-radius: 10px;
 }
-.footer p{
+.final p{
  margin-top: 10px;
  color:#ffffff;
 }
