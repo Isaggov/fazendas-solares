@@ -182,8 +182,12 @@ nav .close-icon{
 /* pagina curiosidades* */
 
 .curio .contudo{
- display: flex;
- align-items: center;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  background-color: #9db19e;
+ flex-direction: column;
+  gap: 32px;
  
 }
 .curio .curi-texto{
