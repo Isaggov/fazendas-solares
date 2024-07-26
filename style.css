@@ -181,7 +181,7 @@ nav .close-icon{
 }
 /* pagina curiosidades* */
 
-.curiosidades .contudo{
+.curio .contudo{
   display: flex;
   align-items:center;
   justify-content: center;
@@ -189,56 +189,25 @@ nav .close-icon{
  flex-direction: column;
   gap: 32px;
 }
-.curiosidades .curi-texto{
+.curio .curi-texto{
   width:67%;
   padding: 0 30px;
   border-radius: 20px;
 }
-.curiosidades.curi-texto h3{
+.curio.curi-texto h3{
   font-size: 45px;
 }
-.curiosidades .curi-texto p{
+.curio .curi-texto p{
   margin: 9px 0px 8px 0;
   color: black;
 }
-.curiosidades .curi-img{
+.curio .curi-img{
   width: 38%;
 }
-.curiosidades .curi-img img{
+.curio .curi-img img{
   width: 100%;
   border-radius: 20px;
-  
-
-
-.curiosidades .contudo{
-  display: flex;
-  align-items:center;
-  justify-content: center;
-  background-color: #9db19e;
- flex-direction: column;
-  gap: 32px;
 }
-.curiosidades .curi-text{
-  width:67%;
-  padding: 0 30px;
-  border-radius: 20px;
-}
-.curiosidades .curi-text p{
-  margin: 9px 0px 8px 0;
-  color: black;
-}
-  .curiosidades .curi-img{
-    width: 38%;
-  }
-  .curiosidades .curi-img img{
-    width: 100%;
-    border-radius: 20px;
-  }
-  .curiosidades .curi-mapa{
-    width: 100%;
-    border-radius: 20px;
-
-  }
 @media(max-width:768px){
   .ul{
     position: fixed;
