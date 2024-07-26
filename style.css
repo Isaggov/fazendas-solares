@@ -179,6 +179,20 @@ nav .close-icon{
   border-radius: 20px;
   
 }
+.curiosidades{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  background-color: #9db19e;
+ flex-direction: column;
+  gap: 32px;
+}
+.curiosidades .curi-text{
+  width:67%;
+  padding: 0 30px;
+  border-radius: 20px;
+}
+  
 @media(max-width:768px){
   .ul{
     position: fixed;
