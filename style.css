@@ -252,4 +252,13 @@ nav .close-icon{
   .sobre .sobre-img{
     width: 100%;
   }
+   .curiosidades .contudo{
+    flex-wrap: wrap-reverse;
+  }
+  .curiosidades .curi-texto{
+    width: 100%;
+  }
+  .curiosidades .curi-img{
+    width: 100%;
+  }
 }
