@@ -192,7 +192,7 @@ nav .close-icon{
   padding: 0 30px;
   border-radius: 20px;
 }
-.curiosidades .curi-texto p{
+.curiosidades .curi-text p{
   margin: 9px 0px 8px 0;
   color: black;
 }
@@ -255,7 +255,7 @@ nav .close-icon{
    .curiosidades .contudo{
     flex-wrap: wrap-reverse;
   }
-  .curiosidades .curi-texto{
+  .curiosidades .curi-text{
     width: 100%;
   }
   .curiosidades .curi-img{
