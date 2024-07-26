@@ -179,6 +179,7 @@ nav .close-icon{
   border-radius: 20px;
   
 }
+/* pagina curiosidades* */
 .curiosidades .contudo{
   display: flex;
   align-items:center;
@@ -202,6 +203,11 @@ nav .close-icon{
   .curiosidades .curi-img img{
     width: 100%;
     border-radius: 20px;
+  }
+  .curiosidades .curi-mapa{
+    width: 100%;
+    border-radius: 20px;
+
   }
 @media(max-width:768px){
   .ul{
