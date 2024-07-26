@@ -257,16 +257,16 @@ nav .close-icon{
   .sobre .sobre-img{
     width: 100%;
   }
-   .curiosidades .contudo{
+   .curio .contudo{
     flex-wrap: wrap-reverse;
   }
-  .curiosidades .curi-text{
+  .curio.curi-text{
     width: 100%;
   }
-  .curiosidades .curi-img{
+  .curio .curi-img{
     width: 100%;
   }
-  .curiosidades .curi-mapa{
+  .curio .curi-mapa{
     width: 100%
   }
 }
