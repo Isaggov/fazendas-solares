@@ -203,11 +203,11 @@ nav .close-icon{
   color: black;
 }
 .curio .curi-img{
+  display: flex;
   width: 38%;
+  align-items: center;
 }
 .curio .curi-img img{
-  display: flex;
-  align-items: center;
   width: 100%;
   border-radius: 20px;
 
@@ -217,6 +217,7 @@ nav .close-icon{
     width: 100%;
     border-radius: 20px;
     align-items: center;
+    
   }
   
 @media(max-width:768px){
