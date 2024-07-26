@@ -206,8 +206,11 @@ nav .close-icon{
   width: 38%;
 }
 .curio .curi-img img{
+  display: flex;
+  align-items: center;
   width: 100%;
   border-radius: 20px;
+
 }
   .curio .curi-mapa{
     width: 100%;
