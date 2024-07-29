@@ -238,8 +238,7 @@ nav .close-icon{
  }
  .contato .form{
   display: flex;
-  align-items: center;
-  margin: 10px 10px 10px 10px;
+ flex-direction: column;
  }
   
 @media(max-width:768px){
