@@ -217,8 +217,18 @@ nav .close-icon{
     width: 100%;
     border-radius: 20px;
     align-items: center;
+    justify-content: center;
+   }
     
-  }
+ .contato .contudo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #415848;
+  flex-direction: column;
+
+ }
   
 @media(max-width:768px){
   .ul{
