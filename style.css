@@ -223,6 +223,7 @@ nav .close-icon{
    .contato{
        display: flex;
        align-items: center;
+       flex-direction: column;
    }
  .contato .contudo{
   width: 400px;
