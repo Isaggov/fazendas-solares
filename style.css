@@ -220,8 +220,8 @@ nav .close-icon{
     justify-content: center;
    }
     
- .contato{
-  width: 500px;
+ .contato .contudo{
+  width: 400;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -231,7 +231,7 @@ nav .close-icon{
   margin: 10px 10px 10px 10px;
   border-radius: 20px;
 
- }s
+ }
   
 @media(max-width:768px){
   .ul{
@@ -239,11 +239,11 @@ nav .close-icon{
     top:0 ;
     left: 0;
     background: #415848 ;
-    width: 100% ;
+    width:100% ;
     height: 100%;
     flex-direction: column;
     align-items: center;
-    justify-content; center;
+    justify-content: center;
     clip-path: circle(0% at 100% 0);
     transition:0.5s;
   }
