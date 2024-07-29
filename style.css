@@ -241,7 +241,10 @@ nav .close-icon{
  flex-direction: column;
  width: 100%;
  }
-  
+  .contato .contudo .form .label{
+    color: #ffffff;
+    font-size: 20px;
+  }
 @media(max-width:768px){
   .ul{
     position: fixed;
