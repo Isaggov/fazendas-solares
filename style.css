@@ -227,6 +227,7 @@ nav .close-icon{
   min-height: 100vh;
   background: #415848;
   flex-direction: column;
+  margin: 10px 10px 10px 10px;
 
  }
   
