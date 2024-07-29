@@ -229,7 +229,7 @@ nav .close-icon{
   flex-direction: column;
   margin: 10px 10px 10px 10px;
   border-radius: 20px;
-
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
  }
   
 @media(max-width:768px){
