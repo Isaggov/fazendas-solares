@@ -239,11 +239,11 @@ nav .close-icon{
     top:0 ;
     left: 0;
     background: #415848 ;
-    width:100% ;
+    width: 100% ;
     height: 100%;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content; center;
     clip-path: circle(0% at 100% 0);
     transition:0.5s;
   }
