@@ -264,8 +264,20 @@ nav .close-icon{
   transition: 0.3s;
   border: 1px solid #ffffff;
   color: black;
-  
 } 
+.contato .esquerdo textarea{
+  width: 50%;
+}
+.contato .esquerdo textarea{
+  display: block;
+  width: 100;
+  margin-bottom: 12px;
+  height: 45px;
+  border-radius: 10px;
+  transition: 0.3s;
+  border: 1px solid #ffffff;
+  color: black;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
