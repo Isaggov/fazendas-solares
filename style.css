@@ -240,10 +240,10 @@ nav .close-icon{
   align-items: center;
   margin-bottom: 10px;
 }
-.contato .direito h2{
+.contato .direito div h2{
   color: #ffffff;
 }
-.contato .direito a{
+.contato .direito div a{
   color: #ffffff;
 }
 
