@@ -248,7 +248,7 @@ nav .close-icon{
   padding: 2px;
 }
 .contato .direito a img{
-  padding: 0;
+  padding: 6px;
 }
 
 @media(max-width:768px){
