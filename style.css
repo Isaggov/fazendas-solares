@@ -220,31 +220,7 @@ nav .close-icon{
     justify-content: center;
    }
     
-   .contato{
-       display: flex;
-       align-items: center;
-       flex-direction: column;
-   }
- .contato .contudo{
-  width: 450px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #415848;
-  flex-direction: column;
   
-  border-radius: 20px;
-  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
- }
-.contato .contudo .form{
-  display: flex;
- flex-direction: column;
- width: 100%;
- }
-.form .label{
-    color: #ffffff;
-    font-size: 20px;
-  }
 @media(max-width:768px){
   .ul{
     position: fixed;
@@ -306,7 +282,5 @@ nav .close-icon{
   .curio .curi-mapa{
     width: 100%
   }
-  .contato .contudo{
-    width: 100%;
-  }
+ 
 }
