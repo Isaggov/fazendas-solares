@@ -260,7 +260,7 @@ nav .close-icon{
   width: 100;
   margin-bottom: 12px;
   height: 45px;
-  border-radius: 7px;
+  border-radius: 10px;
   transition: 0.3s;
   border: 1px solid #ffffff;
   color: black;
