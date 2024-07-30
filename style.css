@@ -220,7 +220,15 @@ nav .close-icon{
     justify-content: center;
    }
     
-  
+.contato{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.contato .direito{
+  width:45%;
+  padding:30px;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
