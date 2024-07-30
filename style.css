@@ -233,6 +233,7 @@ nav .close-icon{
   border-radius: 20px;
   margin-right: 50px;
   height: fit-content;
+  flex-direction: column;
 }
 .contato .direito div{
   display: flex;
