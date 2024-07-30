@@ -245,10 +245,10 @@ nav .close-icon{
 }
 .contato .direito a{
   color: #ffffff;
-  margin: 2px 2px 2px 2px;
+  padding: 2px;
 }
 .contato .direito a img{
-  padding: 3px;
+  padding: 0;
 }
 
 @media(max-width:768px){
