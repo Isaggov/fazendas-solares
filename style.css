@@ -261,7 +261,7 @@ nav .close-icon{
   margin-bottom: 12px;
   height: 45px;
   border-radius: 10px;
-  transition: 0.3s;
+  
   border: 1px solid #ffffff;
   color: black;
 } 
@@ -272,11 +272,12 @@ nav .close-icon{
   display: block;
   width: 100%;
   margin-bottom: 12px;
-  height: 45px;
+  
   border-radius: 10px;
-  transition: 0.3s;
+  
   border: 1px solid #ffffff;
   color: black;
+  padding: 15px;
 }
 @media(max-width:768px){
   .ul{
