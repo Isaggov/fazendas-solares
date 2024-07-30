@@ -248,6 +248,9 @@ nav .close-icon{
   font-size: 24px;
   margin-right: ;
 }
+.contato .direito  a{
+  color: #ffffff;
+}
 
 @media(max-width:768px){
   .ul{
