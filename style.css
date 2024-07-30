@@ -260,18 +260,18 @@ nav .close-icon{
   width: 100%;
   margin-bottom: 12px;
   height: 45px;
-  border-radius: 10px;
+  border-radius: 20px;
   
   border: 1px solid #ffffff;
   color: black;
 } 
 .contato .esquerdo textarea{
-  width: 50%;
+  width: 45%;
 }
 .contato .esquerdo textarea{
   width: 100%;
   margin-bottom: 12px;
-  border-radius: 10px;
+  border-radius: 20px;
   border: 1px solid #ffffff;
   color: black;
   padding: 15px;
