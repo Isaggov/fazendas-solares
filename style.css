@@ -231,7 +231,7 @@ nav .close-icon{
   padding:31px;
   background-color: #415848;
   border-radius: 20px;
-  margin-right: 10px;
+  margin-right: -5px;
   height: fit-content;
   flex-direction: column;
 }
