@@ -228,11 +228,11 @@ nav .close-icon{
 .contato .direito{
  display: flex;
  flex-direction: column;
-  width:45%;
+  width:50%;
   padding:30px;
   background-color: #415848;
   border-radius: 20px;
-  margin-right: 45px;
+  margin-right: 50px;
   height: fit-content;
 }
 .contato .direito div{
