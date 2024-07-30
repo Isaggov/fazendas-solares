@@ -258,6 +258,12 @@ nav .close-icon{
   display: block;
   width: 100;
   margin-bottom: 12px;
+  height: 45px;
+  border-radius: 7px;
+  transition: 0.3s;
+  border: 1px solid #ffffff;
+  color: black;
+  font-weight: lighter;
 } 
 @media(max-width:768px){
   .ul{
