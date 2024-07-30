@@ -251,7 +251,9 @@ nav .close-icon{
 .contato .direito  a{
   color: #ffffff;
 }
-
+.contato .esquerda{
+  width: 50%;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
