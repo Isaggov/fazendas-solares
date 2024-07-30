@@ -269,12 +269,9 @@ nav .close-icon{
   width: 50%;
 }
 .contato .esquerdo textarea{
-  display: block;
   width: 100%;
   margin-bottom: 12px;
-  
   border-radius: 10px;
-  
   border: 1px solid #ffffff;
   color: black;
   padding: 15px;
