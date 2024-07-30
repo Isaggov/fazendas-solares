@@ -277,6 +277,9 @@ nav .close-icon{
   padding: 15px;
 
 }
+.contato .esquerdo button{
+border: none;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
