@@ -247,6 +247,7 @@ nav .close-icon{
   color: #ffffff;
   font-size: 24px;
   margin-right:20px ;
+  flex-direction: column;
 }
 .contato .direito  a{
   color: #ffffff;
