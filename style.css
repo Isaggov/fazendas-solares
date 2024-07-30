@@ -245,6 +245,7 @@ nav .close-icon{
 }
 .contato .direito a{
   color: #ffffff;
+  margin: 5px;
 }
 @media(max-width:768px){
   .ul{
