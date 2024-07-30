@@ -247,6 +247,10 @@ nav .close-icon{
   color: #ffffff;
   margin: 2px 2px 2px 2px;
 }
+.contato .direito a img{
+  margin-top: 3px;
+}
+
 @media(max-width:768px){
   .ul{
     position: fixed;
