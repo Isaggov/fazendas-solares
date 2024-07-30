@@ -243,8 +243,10 @@ nav .close-icon{
 .contato .direito div h2{
   color: #ffffff;
 }
-.contato .direito div a{
+.contato .direito div a img{
   color: #ffffff;
+  font-size: 24px;
+  margin-right: ;
 }
 
 @media(max-width:768px){
