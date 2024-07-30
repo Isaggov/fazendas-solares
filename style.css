@@ -254,6 +254,11 @@ nav .close-icon{
 .contato .esquerda{
   width: 50%;
 }
+.contato .esquerda input{
+  display: block;
+  width: 100;
+  margin-bottom: 12px;
+} 
 @media(max-width:768px){
   .ul{
     position: fixed;
