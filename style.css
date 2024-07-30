@@ -226,6 +226,8 @@ nav .close-icon{
   margin-top: 50px;
 }
 .contato .direito{
+ display: flex;
+ flex-direction: column;
   width:45%;
   padding:30px;
   background-color: #415848;
