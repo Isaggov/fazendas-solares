@@ -264,7 +264,7 @@ nav .close-icon{
   transition: 0.3s;
   border: 1px solid #ffffff;
   color: black;
-  font-weight: lighter;
+  
 } 
 @media(max-width:768px){
   .ul{
