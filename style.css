@@ -281,6 +281,7 @@ nav .close-icon{
 .contato .esquerdo button{
 border: none;
 cursor: pointer;
+color: #415848;
 }
 
 @media(max-width:768px){
