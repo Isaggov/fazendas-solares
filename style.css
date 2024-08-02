@@ -350,7 +350,7 @@ cursor: pointer;
  .contato .direito{
   width: 100%;
  }
- .contato .contudo{
+ .contudo .contato{
   flex-direction: column;
  }
 }
