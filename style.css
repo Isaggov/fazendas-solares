@@ -280,6 +280,7 @@ nav .close-icon{
 }
 .contato .esquerdo button{
 border: none;
+cursor: pointer;
 }
 
 @media(max-width:768px){
