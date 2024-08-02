@@ -344,5 +344,10 @@ cursor: pointer;
   .curio .curi-mapa{
     width: 100%
   }
- 
+ .contato .esquerdo{
+  width: 100%;
+ }
+ .contato .direito{
+  width: 100%;
+ }
 }
