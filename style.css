@@ -275,6 +275,7 @@ nav .close-icon{
   border: 1px solid #ffffff;
   color: black;
   padding: 15px;
+  transition: 0,3S;
 
 }
 .contato .esquerdo button{
