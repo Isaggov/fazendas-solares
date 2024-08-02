@@ -281,7 +281,6 @@ nav .close-icon{
 .contato .esquerdo button{
 border: none;
 cursor: pointer;
-cursor: alias;
 }
 
 @media(max-width:768px){
