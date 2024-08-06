@@ -266,6 +266,14 @@ nav .close-icon {
   margin: 9px auto;
   color: black;
   width: 67%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.curiomapa p{
+color: black;
 }
 
 .contato {
