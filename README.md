@@ -5,6 +5,7 @@ Na aba "sobre", abordo as vantagens das placas solares e como funciona as placas
 Na aba "Curiosidade" , falo sobre a maior fazenda do Brasil, e também trago um mapa dessa fazenda , clicando dele, o site nos leva para o Google Maps . 
 Na aba "Contato", podemos fazer alguma pergunta, ou algum comentário , e também tem as minhas redes socias.
 Em todas as abas, quando clicamos na logo "Placas Solares" o site nos leva para a aba "Home". E no rodapé Tem minhas redes sociais.
+Após clicar no botão "enviar", na aba contato, você sera direcionado para uma aba do Formspree, para sair dela , clique no "go back", após clicalo você voltara para a aba "contato"
 
 
 
