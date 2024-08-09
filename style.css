@@ -259,6 +259,10 @@ nav .close-icon{
 }
 .contato .direito  a{
   color: #ffffff;
+  display: flex;
+  align-items: center;
+  padding: 5px 0px;
+
 }
 .contato .esquerdo{
   width: 45%;
