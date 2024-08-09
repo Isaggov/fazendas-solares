@@ -126,6 +126,10 @@ nav .close-icon{
   align-items: center;
   width: 100%;
 }
+.fazendas .fazendas-text ol{
+
+  width: 100%;
+}
 .fazendas .fazendas-img{
   width: 49%;
 
