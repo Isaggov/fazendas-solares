@@ -293,6 +293,7 @@ cursor: pointer;
 .referencias{
  text-align: center;
  color: black;
+ background-color: #697a6a;
 }
 .referencias p{
   color: black;
