@@ -132,12 +132,14 @@ nav .close-icon{
   margin: 4%  0%;
   color: black;
 }
-
+  .fazendas .fazendas-img{
+    text-align: center;
+  }
 .fazendas .fazendas-img img{
-  display: flex;
+  
   width: 100%;
   border-radius: 20px;
-  align-items: center;
+  
 }
 /* footer*/
 .final{
