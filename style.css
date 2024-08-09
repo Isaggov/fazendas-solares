@@ -127,7 +127,10 @@ nav .close-icon{
 .fazendas .fazendas-text ol{
  text-align: justify;
   width: 100%;
-
+}
+.fazendas .fazendas-text p{
+  margin: 4%  0%;
+  color: black;
 }
 .fazendas .fazendas-img{
   width: 49%;
