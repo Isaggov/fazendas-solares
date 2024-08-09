@@ -90,7 +90,7 @@ nav .close-icon{
 .banner .banner-text{
   margin: 150px;
   text-align: center;
-  padding: 0 50px;
+  padding: 0 32px;
 }
 .banner .banner-text h1{
   font-size: 70px;
@@ -117,7 +117,7 @@ nav .close-icon{
   }
 .fazendas .fazendas-text h3{
   font-size: 41px;
-  align-items: center;
+  text-align: center;
   color: black;
 }
 .fazendas .fazendas-text li{
