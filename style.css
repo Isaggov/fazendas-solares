@@ -121,14 +121,13 @@ nav .close-icon{
   color: black;
 }
 .fazendas .fazendas-text li{
-  margin: 9px 0px 8px 0;
+  margin: 9%  0%;
   color: black;
-  align-items: center;
-  width: 100%;
 }
 .fazendas .fazendas-text ol{
-
+ text-align: justify;
   width: 100%;
+
 }
 .fazendas .fazendas-img{
   width: 49%;
