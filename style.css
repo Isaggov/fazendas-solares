@@ -294,6 +294,9 @@ cursor: pointer;
  text-align: center;
  color: black;
 }
+.referencias h4{
+  color: black;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
