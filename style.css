@@ -302,7 +302,7 @@ cursor: pointer;
 .referencias p{
   color: black;
 }
-@media(max-width:768px){
+@media(max-width:847px){
   .ul{
     position: fixed;
     top:0 ;
