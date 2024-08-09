@@ -290,7 +290,10 @@ nav .close-icon{
 border: none;
 cursor: pointer;
 }
-
+.referencias{
+ text-align: center;
+ color: black;
+}
 @media(max-width:768px){
   .ul{
     position: fixed;
